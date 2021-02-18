@@ -1,23 +1,19 @@
 
 <!-- ### Hello World 👋 It's [Rebekah!](https://rheal3.github.io/MyPortfolio/) -->
 
-### Hi, I’m Rebekah. 
+## Hi, I’m Rebekah. 
 
 I'm a fast learning, competent and budding young professional with a keen interest in technology. I love a challenge and thoroughly enjoy finding ways to make my day to day life easier with technology. I love learning, creating, and expanding my knowledge. I am determined, focused, and committed to learning and growing as an IT professional.
 
+### Quick Links 👣
+- [LinkedIn](http://www.linkedin.com/in/rebekah-heal)
+- [Instagram](https://www.instagram.com/rheal3)
 
-<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" /> -->
-
-
-**Some Personal Stuff:**
-- 🖥 Currently studying at CoderAcademy
-- 🦩 Novice birdwatcher
-- ✨ I like to draw
-- 🐡 Fish are the coolest
-- 📫 How to reach me:  
-
-    &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/rebekah-heal/"><img alt="Rebekah Heal" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> rebekah-heal</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/rheal3/"><img alt="Rebekah Heal" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> rheal3</a>
-    <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☎️ -->
+## About 🦠
+- Currently studying at CoderAcademy 🖥
+- Novice birdwatcher 🦩
+- I like to draw ✨
+- Fish are the coolest 🐡 
 
 <br/>
 
@@ -35,4 +31,6 @@ I'm a fast learning, competent and budding young professional with a keen intere
 - CI/CD Pipeline
 
 
-![Rebekah's github stats](https://github-readme-stats.vercel.app/api?username=rheal3&show_icons=true&hide_border=true)
+<!-- ![Rebekah's github stats](https://github-readme-stats.vercel.app/api?username=rheal3&show_icons=true&hide_border=true) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rheal3&hide=objective-c%2B%2B&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
