@@ -14,6 +14,7 @@ I'm a curious, competent and budding young professional with a keen interest in 
 - Novice birdwatcher 🦩
 - I like to draw ✨
 - Fish are the coolest 🐡 
+- I love cooking & eating great food 🍘
 
 <br/>
 
