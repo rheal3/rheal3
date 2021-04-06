@@ -1,4 +1,4 @@
-## Hi, I’m Rebekah. 
+## Hi, I’m Rebekah. 👋
 
 I am a curious, competent and budding young professional with a keen interest in technology. I love a challenge and thoroughly enjoy finding ways to make my day to day life easier with technology. I love learning, creating, and expanding my knowledge. I am determined, focused, and committed to learning and growing as an IT professional.
 
@@ -6,9 +6,9 @@ I am a curious, competent and budding young professional with a keen interest in
 - [LinkedIn](http://www.linkedin.com/in/rebekah-heal)
 - [Instagram](https://www.instagram.com/rheal3)
 
-## About 🦠
+## About 🎧
 - Studied at CoderAcademy 🖥
-- Novice birdwatcher 🦩
+- Novice birdwatcher 🦉
 - I like to draw ✨
 - Fish are the coolest 🐡 
 - I love cooking & eating great food 🍘
