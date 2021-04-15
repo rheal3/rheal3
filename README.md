@@ -1,6 +1,6 @@
 ## Hi, I’m Rebekah. 👋
 
-I am a curious, competent and budding young professional with a keen interest in technology. I love a challenge and thoroughly enjoy finding ways to make my day to day life easier with technology. I love learning, creating, and expanding my knowledge. I am determined, focused, and committed to learning and growing as an IT professional.
+I am a curious, competent and budding young professional with a keen interest in technology. I love a challenge and thoroughly enjoy finding ways to make my day to day life easier with tech. I love learning, creating, and expanding my knowledge. I am determined, focused, and committed to learning and growing as an IT professional.
 
 ### Quick Links 👣
 - [LinkedIn](http://www.linkedin.com/in/rebekah-heal)
@@ -13,7 +13,6 @@ I am a curious, competent and budding young professional with a keen interest in
 - Fish are the coolest 🐡 
 - I love cooking & eating great food 🍘
 
-<br/>
 
 **Programming Languages:**
 - HTML5/CSS 
