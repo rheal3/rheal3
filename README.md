@@ -19,6 +19,7 @@ I am a curious, competent and budding young professional with a keen interest in
 - Python 
 - Bash 
 - PostgreSQL
+- Javascript
 
 **Frameworks/Tools:**
 - Git/Github 
@@ -26,6 +27,8 @@ I am a curious, competent and budding young professional with a keen interest in
 - AWS 
 - Docker 
 - CI/CD Pipeline
+- ReactJS
+- NodeJS
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rheal3&hide=objective-c%2B%2B&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
